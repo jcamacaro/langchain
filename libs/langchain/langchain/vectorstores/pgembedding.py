@@ -17,7 +17,7 @@ from langchain.vectorstores.base import VectorStore
 Base = declarative_base()  # type: Any
 
 
-ADA_TOKEN_COUNT = 1536
+ADA_TOKEN_COUNT = 768
 _LANGCHAIN_DEFAULT_COLLECTION_NAME = "langchain"
 
 

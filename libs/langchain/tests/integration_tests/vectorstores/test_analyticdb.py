@@ -16,7 +16,7 @@ CONNECTION_STRING = AnalyticDB.connection_string_from_db_params(
 )
 
 
-ADA_TOKEN_COUNT = 1536
+ADA_TOKEN_COUNT = 768
 
 
 class FakeEmbeddingsWithAdaDimension(FakeEmbeddings):
